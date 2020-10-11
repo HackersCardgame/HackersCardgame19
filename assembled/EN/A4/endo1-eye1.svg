@@ -44,6 +44,450 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path14698" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6121"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6119" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1;fill:#008000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1532" />
+    </marker>
+    <clipPath
+       id="clipPath318-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="stroke-width:1.06666672"
+         id="path320-8"
+         d="m 1393.9136,-1088.701 c 0,0 -90.7094,0 -90.7094,0 0,0 0,-60.4724 0,-60.4724 0,0 90.7094,0 90.7094,0 0,0 0,60.4724 0,60.4724 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       id="filter1978"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend1980"
+         in2="BackgroundImage"
+         mode="color-dodge"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter2482"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur2480"
+         result="fbSourceGraphic"
+         stdDeviation="0.05 0.05" />
+      <feColorMatrix
+         id="feColorMatrix2484"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="0.05 0.05"
+         id="feGaussianBlur2486" />
+      <feColorMatrix
+         id="feColorMatrix2488"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.05 0.05"
+         id="feGaussianBlur2490" />
+    </filter>
+    <filter
+       id="filter2482-3"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2480-6"
+         result="fbSourceGraphic"
+         stdDeviation="0.05 0.05" />
+      <feColorMatrix
+         id="feColorMatrix2484-7"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         stdDeviation="0.05 0.05"
+         id="feGaussianBlur2486-5" />
+      <feColorMatrix
+         id="feColorMatrix2488-3"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="blur"
+         stdDeviation="0.05 0.05"
+         id="feGaussianBlur2490-5" />
+    </filter>
+    <filter
+       id="filter75132"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         id="feColorMatrix75130"
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 " />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2307-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2305-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1434"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3099"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3097"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2307-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2305-5-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1434-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3099-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3097-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2307-3-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2305-5-90"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1434-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3099-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3097-63"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-5-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-7-2-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-5-2-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2937-7-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2935-5-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2937-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2935-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2937-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2935-5-4" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondM-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14698-2"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2937-7-2-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2935-5-2-7-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2937-7-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2935-5-1-9" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,9 +496,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38041362"
-     inkscape:cx="-667.39218"
-     inkscape:cy="296.38169"
+     inkscape:zoom="1.5216545"
+     inkscape:cx="599.07507"
+     inkscape:cy="556.45883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +515,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1586,7 +2030,7 @@
     </g>
     <g
        id="g489"
-       transform="translate(423.22355,144.57947)">
+       transform="translate(423.22355,144.95741)">
       <rect
          inkscape:export-ydpi="359.29999"
          inkscape:export-xdpi="359.29999"
@@ -1851,6 +2295,746 @@
          height="35.153587"
          x="-333.61423"
          y="224.62227"
+         rx="13.839844"
+         ry="13.290723" />
+    </g>
+    <g
+       style="display:none"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-726.8835)"
+       id="g2897"
+       inkscape:label="bodyRed">
+      <rect
+         ry="3.8487499"
+         rx="3.5534737"
+         y="197.85098"
+         x="5.3509827"
+         height="93.298027"
+         width="63.298035"
+         id="rect2895-3"
+         style="opacity:0.93999999;fill:#e9afdd;fill-opacity:0.94117647;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/marc/Daten.2020/code/HackersCardgame7/png/EN/m66.png"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-ydpi="582.27002" />
+    </g>
+    <g
+       inkscape:label="bodyNeutral"
+       id="g18358"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-726.8835)"
+       style="display:none">
+      <rect
+         style="opacity:0.93999999;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect18356"
+         width="63.298035"
+         height="93.298027"
+         x="5.3509827"
+         y="197.85098"
+         rx="3.5534737"
+         ry="3.8487499" />
+    </g>
+    <g
+       style="display:none"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-726.8835)"
+       id="g39605"
+       inkscape:label="bodyGreen">
+      <rect
+         ry="3.8487499"
+         rx="3.5534737"
+         y="197.85098"
+         x="5.3509827"
+         height="93.298027"
+         width="63.298035"
+         id="rect39603"
+         style="opacity:0.93999999;fill:#55ff99;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:none"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-726.8835)"
+       id="g3083"
+       inkscape:label="bodyYellow">
+      <rect
+         ry="5.6843419e-14"
+         rx="0.59860229"
+         y="197.85098"
+         x="5.3509827"
+         height="93.298027"
+         width="63.298035"
+         id="rect3081"
+         style="opacity:0.93999999;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="textArchetype"
+       id="g29667"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-1.2142023)">
+      <text
+         id="text29649"
+         y="63.840492"
+         x="42.28204"
+         style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="66.961746"
+           x="42.28204"
+           id="tspan29647"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3256-6-4"
+         style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.02945736,2.2000515)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><flowRegion
+           id="flowRegion3258-1"><rect
+             id="rect3260-0"
+             width="214.25336"
+             height="152.02795"
+             x="32.526913"
+             y="210.88132" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara21823-6"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan29141">N</flowSpan> Neuroticism:        only in pursuit</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29143"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan54648">E</flowSpan> Extraversion:       guardedly</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29145"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan54650">O</flowSpan> Openness:           open</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29147"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan54656">C</flowSpan> Conscienttiousness: killed by the state</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29149"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan54668">A</flowSpan> Agreeableness:      high ♥</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29151" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29153" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31343"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#ff0000"
+   id="flowSpan49637">Orgon-Acumulator</flowSpan>, <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#008000"
+   id="flowSpan49641">humanism</flowSpan></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29155" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31341" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31351">Humanism                        ★★★★★  (5/5)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara29159"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan49643">Technical Background</flowSpan>            ★★★★★  (5/5)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31195">Megalomania                     ★★☆☆☆  (2/5)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31199">Military Background             ☆☆☆☆☆  (0/5)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
+           id="flowPara31201">Project Problems to Patients    ★☆☆☆☆  (1/5)</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3322-3"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,3.15105,1.6121945)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><flowRegion
+           id="flowRegion3324-2"><rect
+             id="rect3326-0"
+             width="238.82249"
+             height="28.637268"
+             x="20.685699"
+             y="201.33592" /></flowRegion><flowPara
+           id="flowPara3328-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">The Big Five                     Year</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="57.373508"
+         y="57.384331"
+         id="text3356-1-1"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
+           sodipodi:role="line"
+           id="tspan3354-1-5"
+           x="57.373508"
+           y="57.384331"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">1897</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="8.4216328"
+         y="75.117104"
+         id="text31209"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
+           sodipodi:role="line"
+           id="tspan31207"
+           x="8.4216328"
+           y="75.117104"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Main Achiefements</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="8.4031038"
+         y="83.118332"
+         id="text31209-3"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001"><tspan
+           sodipodi:role="line"
+           id="tspan31207-5"
+           x="8.4031038"
+           y="83.118332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Brief Profile</tspan></text>
+    </g>
+    <g
+       id="layer2-8"
+       inkscape:label="flag"
+       style="display:none"
+       transform="matrix(3.7795276,0,0,3.7795276,-589.35325,-1.2142023)">
+      <path
+         d="m 20.158967,45.552873 c 0,0 -10.4578147,0 -10.4578147,0 0,0 0,-6.971818 0,-6.971818 0,0 10.4578147,0 10.4578147,0 0,0 0,6.971818 0,6.971818 z"
+         style="display:inline;fill:#1f5ab1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
+         id="path312"
+         inkscape:connector-curvature="0" />
+      <g
+         style="display:inline;enable-background:new"
+         transform="matrix(0.1152892,0,0,0.1152892,-140.54422,171.06834)"
+         id="g314">
+        <g
+           id="g316"
+           clip-path="url(#clipPath318-1)">
+          <path
+             d="m 1304.3698,-1152.2985 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6379 1.0708,-3.6379 0,0 1.2854,3.6379 1.2854,3.6379 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1402 -3.2105,2.1402 0,0 1.2833,3.638 1.2833,3.638 0,0 -3.2083,-2.1401 -3.2083,-2.1401 0,0 -2.9958,2.1401 -2.9958,2.1401 0,0 1.0708,-3.638 1.0708,-3.638 0,0 -2.9979,-2.1402 -2.9979,-2.1402 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path322"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1312.05,-1144.5812 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6376 1.0708,-3.6376 0,0 1.2854,3.6376 1.2854,3.6376 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.14 -3.2105,2.14 0,0 1.2833,3.637 1.2833,3.637 0,0 -3.2083,-2.1385 -3.2083,-2.1385 0,0 -2.9958,2.1385 -2.9958,2.1385 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.9979,-2.14 -2.9979,-2.14 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path324"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1319.7292,-1136.8646 c 0,0 3.852,0 3.852,0 0,0 1.0709,-3.6375 1.0709,-3.6375 0,0 1.2854,3.6375 1.2854,3.6375 0,0 3.85,0 3.85,0 0,0 -3.2104,2.1407 -3.2104,2.1407 0,0 1.2833,3.6374 1.2833,3.6374 0,0 -3.2083,-2.1395 -3.2083,-2.1395 0,0 -2.9959,2.1395 -2.9959,2.1395 0,0 1.0708,-3.6374 1.0708,-3.6374 0,0 -2.9978,-2.1407 -2.9978,-2.1407 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path326"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1327.4083,-1129.1474 c 0,0 3.8521,0 3.8521,0 0,0 1.0709,-3.638 1.0709,-3.638 0,0 1.2853,3.638 1.2853,3.638 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1401 -3.2105,2.1401 0,0 1.2834,3.638 1.2834,3.638 0,0 -3.2083,-2.14 -3.2083,-2.14 0,0 -2.9958,2.14 -2.9958,2.14 0,0 1.0708,-3.638 1.0708,-3.638 0,0 -2.998,-2.1401 -2.998,-2.1401 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path328"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1335.0885,-1121.4302 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.637 1.0708,-3.637 0,0 1.2855,3.637 1.2855,3.637 0,0 3.85,0 3.85,0 0,0 -3.2105,2.1401 -3.2105,2.1401 0,0 1.2834,3.637 1.2834,3.637 0,0 -3.2084,-2.1396 -3.2084,-2.1396 0,0 -2.9957,2.1396 -2.9957,2.1396 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.998,-2.1401 -2.998,-2.1401 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path330"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1342.7687,-1113.7136 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6374 1.0708,-3.6374 0,0 1.2855,3.6374 1.2855,3.6374 0,0 3.8511,0 3.8511,0 0,0 -3.2116,2.1407 -3.2116,2.1407 0,0 1.2835,3.6375 1.2835,3.6375 0,0 -3.2085,-2.1396 -3.2085,-2.1396 0,0 -2.9958,2.1396 -2.9958,2.1396 0,0 1.0709,-3.6375 1.0709,-3.6375 0,0 -2.998,-2.1407 -2.998,-2.1407 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path332"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1350.4479,-1105.9964 c 0,0 3.8531,0 3.8531,0 0,0 1.0708,-3.6379 1.0708,-3.6379 0,0 1.2855,3.6379 1.2855,3.6379 0,0 3.85,0 3.85,0 0,0 -3.2104,2.1411 -3.2104,2.1411 0,0 1.2834,3.6376 1.2834,3.6376 0,0 -3.2085,-2.1391 -3.2085,-2.1391 0,0 -2.9958,2.1391 -2.9958,2.1391 0,0 1.0709,-3.6376 1.0709,-3.6376 0,0 -2.999,-2.1411 -2.999,-2.1411 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path334"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1358.1281,-1098.2802 c 0,0 3.8522,0 3.8522,0 0,0 1.0708,-3.6376 1.0708,-3.6376 0,0 1.2853,3.6376 1.2853,3.6376 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1422 -3.2105,2.1422 0,0 1.2834,3.637 1.2834,3.637 0,0 -3.2083,-2.1391 -3.2083,-2.1391 0,0 -2.9958,2.1391 -2.9958,2.1391 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.998,-2.1422 -2.998,-2.1422 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path336"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 1365.8073,-1090.5625 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.637 1.0708,-3.637 0,0 1.2855,3.637 1.2855,3.637 0,0 3.8499,0 3.8499,0 0,0 -3.2103,2.1406 -3.2103,2.1406 0,0 1.2833,3.6375 1.2833,3.6375 0,0 -3.2084,-2.1395 -3.2084,-2.1395 0,0 -2.9958,2.1395 -2.9958,2.1395 0,0 1.0708,-3.6375 1.0708,-3.6375 0,0 -2.9979,-2.1406 -2.9979,-2.1406 0,0 0,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path338"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         d="m 18.85379,45.552873 c 0,0 -6.988796,-6.971818 -6.988796,-6.971818 0,0 6.988796,0 6.988796,0 0,0 0,6.971818 0,6.971818 z"
+         style="display:inline;fill:#fcd01b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
+         id="path340"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 20.158967,45.552873 c 0,0 -10.4578147,0 -10.4578147,0 0,0 0,-6.971818 0,-6.971818 0,0 10.4578147,0 10.4578147,0 0,0 0,6.971818 0,6.971818 z"
+         style="display:inline;fill:none;stroke:#231f20;stroke-width:0.03486222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="path342"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="702.11584"
+       y="637.00903"
+       id="text3266-4"
+       inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+       inkscape:export-xdpi="582.27002"
+       inkscape:export-ydpi="582.27002"><tspan
+         sodipodi:role="line"
+         id="tspan3264-95"
+         x="702.11584"
+         y="648.80591"
+         style="stroke-width:0.99999994" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="771.80969"
+       y="759.57257"
+       id="text44601"
+       inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+       inkscape:export-xdpi="582.27002"
+       inkscape:export-ydpi="582.27002"><tspan
+         sodipodi:role="line"
+         id="tspan44599"
+         x="771.80969"
+         y="794.9632"
+         style="stroke-width:0.99999994" /></text>
+    <text
+       id="text1710-9"
+       y="307.10568"
+       x="-576.14929"
+       style="font-size:1.01898277px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;display:inline;stroke-width:0.02547462"
+       xml:space="preserve"
+       inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+       inkscape:export-xdpi="582.27002"
+       inkscape:export-ydpi="582.27002"><tspan
+         style="stroke-width:0.02547462"
+         y="308.04825"
+         x="-576.14929"
+         id="tspan1708-2"
+         sodipodi:role="line" /></text>
+    <text
+       id="text2437-1"
+       y="308.77518"
+       x="-578.28882"
+       style="font-size:1.01898277px;line-height:1.25;font-family:slave;-inkscape-font-specification:slave;display:inline;stroke-width:0.02547462"
+       xml:space="preserve"
+       inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+       inkscape:export-xdpi="582.27002"
+       inkscape:export-ydpi="582.27002"><tspan
+         style="stroke-width:0.02547462"
+         y="309.71774"
+         x="-578.28882"
+         id="tspan2435-0"
+         sodipodi:role="line" /></text>
+    <g
+       id="g24641"
+       transform="translate(-218.95391,-54.825137)">
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         ry="14.546456"
+         rx="13.430452"
+         y="417.83615"
+         x="562.53387"
+         height="352.62247"
+         width="239.23666"
+         id="rect3077"
+         style="display:inline;opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:10.21215916;stroke-miterlimit:4;stroke-dasharray:none" />
+      <flowRoot
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         transform="translate(542.3097,405.72217)"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.10000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3256-2"
+         xml:space="preserve"><flowRegion
+           style="fill:#000000"
+           id="flowRegion3258-6"><rect
+             style="fill:#000000"
+             y="210.88132"
+             x="32.526913"
+             height="153.26126"
+             width="213.5096"
+             id="rect3260-6" /></flowRegion><flowPara
+           id="flowPara587"
+           style="font-size:9.73334026px;text-align:justify;text-anchor:start;fill:#000000">Mostly Top-Down, seldom Bottom-Up. They seem to abuse Age Based Access to intimidate younger siblings or their childern. Often one can read in news about pedophile people that We should identify who shows this behavior and people that show this behavior (we guess that are mostly the 1960s and older) should be therapied with an intensive care bear. They also often use children to transmit these intimidations, the child that transmitted that is then abused as scapegoat</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         transform="translate(554.33051,401.50035)"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3322-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3324-4"><rect
+             y="201.33592"
+             x="20.685699"
+             height="28.637268"
+             width="238.82249"
+             id="rect3326-8" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="flowPara3328-7">Inventor:                          Year:</flowPara></flowRoot>      <text
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         id="text3356-17"
+         y="611.6745"
+         x="634.23358"
+         style="font-style:normal;font-weight:normal;font-size:9.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+         xml:space="preserve"><tspan
+           id="tspan3376-27"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.99999994"
+           y="611.6745"
+           x="634.23358"
+           sodipodi:role="line">xxxxx</tspan></text>
+      <text
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         id="text3356-1-2"
+         y="612.29266"
+         x="759.26581"
+         style="font-style:normal;font-weight:normal;font-size:9.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.99999994"
+           y="612.29266"
+           x="759.26581"
+           id="tspan3354-1-2"
+           sodipodi:role="line">~????</tspan></text>
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         ry="0"
+         rx="0"
+         y="454.48944"
+         x="562.99542"
+         height="142.82559"
+         width="238.18864"
+         id="rect15430-6"
+         style="display:inline;opacity:0.93999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.12410355;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         ry="0"
+         rx="17.003096"
+         y="454.85751"
+         x="562.99542"
+         height="142.82559"
+         width="238.18864"
+         id="rect2350-1"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:7.55905533;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         id="text8724-0"
+         y="599.73956"
+         x="791.6001"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none"
+           y="599.73956"
+           x="791.6001"
+           id="tspan8722-6"
+           sodipodi:role="line">m161</tspan></text>
+      <text
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         id="text560-1"
+         y="600.79822"
+         x="579.37842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22677165;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.22677165;stroke-miterlimit:4;stroke-dasharray:none"
+           y="600.79822"
+           x="579.37842"
+           id="tspan558-5"
+           sodipodi:role="line">https://0x8.ch/HackersCardgame19</tspan></text>
+      <circle
+         r="9.317275"
+         cy="529.79468"
+         cx="612.46332"
+         id="path9964"
+         style="display:inline;fill:#ff0000;stroke-width:0.99999994" />
+      <circle
+         r="9.317275"
+         cy="529.79468"
+         cx="741.26093"
+         id="path9964-3"
+         style="display:inline;fill:#0000ff;stroke-width:0.99999994" />
+      <circle
+         r="4.9326749"
+         cy="554.13788"
+         cx="736.0542"
+         id="path9964-5-9"
+         style="display:inline;fill:#ff5555;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.13788"
+         cx="715.5014"
+         id="path9964-5-1"
+         style="display:inline;fill:#8080ff;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.68597"
+         cx="605.70374"
+         id="path9964-5-9-2"
+         style="display:inline;fill:#ff5555;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.68597"
+         cx="652.47278"
+         id="path9964-5-9-7"
+         style="display:inline;fill:#ff5555;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.13788"
+         cx="756.60706"
+         id="path9964-5-1-0"
+         style="display:inline;fill:#8080ff;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.68597"
+         cx="629.08826"
+         id="path9964-5-1-9"
+         style="display:inline;fill:#8080ff;stroke-width:0.52941167" />
+      <circle
+         r="4.9326749"
+         cy="554.68597"
+         cx="582.31915"
+         id="path9964-5-1-3"
+         style="display:inline;fill:#8080ff;stroke-width:0.52941167" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="754.3515"
+         id="path9964-5-9-6"
+         style="display:inline;fill:#ff5555;stroke-width:0.34615383" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="766.53564"
+         id="path9964-5-9-0"
+         style="display:inline;fill:#ff5555;stroke-width:0.34615383" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="633.77502"
+         id="path9964-5-9-6-6"
+         style="display:inline;fill:#ff5555;stroke-width:0.34615383" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="645.95911"
+         id="path9964-5-9-0-2"
+         style="display:inline;fill:#ff5555;stroke-width:0.34615383" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="658.98645"
+         id="path9964-5-9-6-61"
+         style="display:inline;fill:#afdde9;stroke-width:0.34615383" />
+      <circle
+         r="3.2252107"
+         cy="574.28198"
+         cx="671.17059"
+         id="path9964-5-9-0-8"
+         style="display:inline;fill:#afdde9;stroke-width:0.34615383" />
+      <circle
+         r="9.317275"
+         cy="529.79468"
+         cx="634.93439"
+         id="path9964-3-7"
+         style="display:inline;fill:#0000ff;stroke-width:0.99999994" />
+      <circle
+         r="9.317275"
+         cy="529.79468"
+         cx="717.69373"
+         id="path9964-9"
+         style="display:inline;fill:#ff0000;stroke-width:0.99999994" />
+      <circle
+         r="14.798025"
+         cy="502.0928"
+         cx="675.49194"
+         id="path9964-2"
+         style="display:inline;fill:#803300;stroke-width:1.58823526" />
+      <text
+         inkscape:transform-center-y="-0.14501152"
+         inkscape:transform-center-x="1.0150806"
+         id="text10177"
+         y="498.97095"
+         x="645.60999"
+         style="font-style:normal;font-weight:normal;font-size:57.66259003px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.44156468"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4546051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:1.44156468"
+           y="498.97095"
+           x="645.60999"
+           id="tspan10175"
+           sodipodi:role="line">$Shrink</tspan></text>
+      <circle
+         r="14.798025"
+         cy="486.19864"
+         cx="735.23212"
+         id="path9964-2-0"
+         style="display:inline;fill:#800080;stroke-width:1.58823526" />
+      <text
+         inkscape:transform-center-y="-0.14501152"
+         inkscape:transform-center-x="1.0150806"
+         id="text10177-2"
+         y="483.07678"
+         x="671.3501"
+         style="font-style:normal;font-weight:normal;font-size:57.66259003px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.44156468"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4546051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:1.44156468"
+           y="483.07678"
+           x="671.3501"
+           id="tspan10175-3"
+           sodipodi:role="line">$ShrinksMother</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path10200"
+         d="m 661.072,478.6861 -37.44675,3.32144 -39.40729,63.50004"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2937-4)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10200-9"
+         d="m 673.92413,521.20031 -13.66293,46.8134"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2937-7-1)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10200-9-8"
+         d="m 718.42062,531.18952 38.70725,19.07434"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DiamondM-9)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10200-9-8-3"
+         d="m 647.45923,533.85106 101.25686,18.63456"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2937-7-2-9-0)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10200-9-2"
+         d="m 757.12787,550.26386 -2.35852,18.35931"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2937-7-6-8)" />
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         ry="11.046475"
+         rx="10.180454"
+         y="417.83615"
+         x="562.53387"
+         height="352.62247"
+         width="239.23666"
+         id="rect10-9"
+         style="display:inline;opacity:0.93999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.21215916;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         ry="15.543898"
+         rx="14.787838"
+         y="405.74658"
+         x="550.44434"
+         height="376.80157"
+         width="263.41577"
+         id="rect10-3-4"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1978)" />
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         style="display:inline;fill:#00aa88;fill-opacity:1;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3069"
+         width="234.71182"
+         height="48.557449"
+         x="564.79633"
+         y="417.83612"
+         rx="19.680922"
+         ry="17.181292" />
+      <text
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11.76017189px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29455221"
+         x="699.47229"
+         y="433.05508"
+         id="text8685"><tspan
+           id="tspan1023"
+           sodipodi:role="line"
+           x="699.47229"
+           y="433.05508"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#00ffff;stroke-width:1.29455221">Family Tree Walker</tspan><tspan
+           id="tspan9880"
+           sodipodi:role="line"
+           x="699.47229"
+           y="445.28842"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#00ffff;stroke-width:1.29455221">Algorithm Malware</tspan><tspan
+           id="tspan9882"
+           sodipodi:role="line"
+           x="699.47229"
+           y="457.52176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:1.29455221">Projection <tspan
+   id="tspan16028"
+   style="fill:#008000;stroke-width:1.29455221">/</tspan> <tspan
+   id="tspan9884"
+   style="fill:#ff0000;stroke-width:1.29455221">Intimidation</tspan></tspan></text>
+      <g
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         transform="matrix(3.7795276,0,0,3.7795276,544.9905,478.61604)"
+         id="g2276"
+         style="display:inline">
+        <rect
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.40227041"
+           id="rect3952-3-7-1-6-9-6"
+           width="9.531085"
+           height="9.531085"
+           x="7.1407046"
+           y="-14.46242"
+           rx="4.0763397"
+           ry="4.0763397" />
+        <g
+           id="g2233"
+           transform="matrix(1.6336469,0,0,1.6336469,29.380172,-30.793761)"
+           style="stroke:none">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path1419"
+             d="m -11.583363,12.286542 2.3168674,2.393425 0.4807349,-0.45587 -2.4265783,-2.304211 z"
+             style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path2226"
+             d="m -12.051523,12.90614 0.273522,-0.298387 -0.09117,-0.09946 0.953181,-0.920026 c 0.09838,-0.08449 0.160557,-0.129949 0.306675,-0.117982 0.07136,0.0084 0.134172,0.0075 0.240368,0.07654 -0.05029,-0.09007 -0.143089,-0.190717 -0.255483,-0.273022 -0.08909,-0.05232 -0.163099,-0.08204 -0.243917,-0.108291 -0.149665,-0.03641 -0.227743,-0.01946 -0.321165,0.0249 -0.108697,0.07728 -0.211599,0.171954 -0.314964,0.265233 l -0.687948,0.696237 -0.09946,-0.09117 -0.314964,0.298387 z"
+             style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2228"
+             d="m -12.038239,11.820863 0.357513,-0.360444 0.06007,0.06593 -0.357513,0.36484 z"
+             style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-xdpi="582.27002"
+         inkscape:export-filename="/home/marc/disk/HackersCardgame19/png/EN/m160.png"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect917-6-9"
+         width="35.153587"
+         height="35.153587"
+         x="571.979"
+         y="424.40482"
          rx="13.839844"
          ry="13.290723" />
     </g>
