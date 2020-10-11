@@ -28,7 +28,8 @@ then
 		let counter=counter+1
 		echo $counter
 		if (( $counter % 8 == 1 ))
-		then 
+		then
+	                cp ./templateA4.svg ../assembled/$1/A4/
 			inkscape ../assembled/$1/A4/templateA4.svg &
 			file=$(basename $i .svg)
 			sleep 1

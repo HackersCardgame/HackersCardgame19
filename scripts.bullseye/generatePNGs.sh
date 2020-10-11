@@ -61,3 +61,6 @@ for i in $(cat ./PNGs.txt)
   killall inkscape
 done
 
+
+./cleanup.ch
+

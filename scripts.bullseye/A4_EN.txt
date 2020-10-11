@@ -86,12 +86,14 @@
 ../cards/EN/methods/m50.svg
 ../cards/EN/methods/m145.svg
 ../cards/EN/methods/m35.svg
+../cards/EN/methods/m158.svg
 ../cards/EN/methods/m89.svg
 ../cards/EN/methods/m114.svg
 ../cards/EN/methods/m154.svg
 ../cards/EN/methods/m15-mod2.svg
 ../cards/EN/methods/m155.svg
 ../cards/EN/methods/m138.svg
+../cards/EN/methods/m157.svg
 ../cards/EN/methods/m112.svg
 ../cards/EN/methods/m48.svg
 ../cards/EN/methods/m149.svg
@@ -116,6 +118,8 @@
 ../cards/EN/methods/m68.svg
 ../cards/EN/methods/m15-mod.svg
 ../cards/EN/methods/m70.svg
+../cards/EN/methods/m159.svg
+../cards/EN/methods/m81c.svg
 ../cards/EN/methods/m101.svg
 ../cards/EN/methods/m67.svg
 ../cards/EN/methods/m103.svg
@@ -165,6 +169,7 @@
 ../cards/EN/methods/m69.svg
 ../cards/EN/methods/m146.svg
 ../cards/EN/methods/m119.svg
+../cards/EN/methods/m160.svg
 ../cards/EN/methods/m56.svg
 ../cards/EN/methods/m61.svg
 ../cards/EN/methods/m108.svg
