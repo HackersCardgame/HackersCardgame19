@@ -22,6 +22,7 @@ mkdir -p $pngpath/$1/
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
 cp m41*.png $pngpath/$1/
+cp README.png $pngpath/$1/
 
 counter=0
 
