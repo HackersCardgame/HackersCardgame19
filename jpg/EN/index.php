@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 <div class="text">
 <h1>Hackers Cardgame</h1>
-<h2>If the System now loops "<font color=tomato class="blink">Your girl is beeing raped</font>" then you are a targeted individual and under surveillance, but if they know that I would commit suicide if they do and loudly tell them that I will commit suicide if they would do they also know that they would be murderer and be in a worse situation in their Panopticon</b><br><br>
+<h2>If the System now loops "<font color=tomato class="blink">Your girl is beeing raped</font>" then you are a targeted individual and under surveillance. If a specific card triggers you also, then it is possible that you must confess first if you did similar things, or satan would like to prevent, that you learn this move, so that he/she can further abuse this move against you. For me as an Autistic i told them that I would commit suicide if they raped me they also know that they would be murderer and they would be in much a worse situation in their Panopticon</b><br><br>
 <a href="https://github.com/braindef/HackersCardgame17"><img src="./README.png"></a>
 <br><br>
 
